@@ -1,0 +1,3 @@
+Nome do Usuário: antonio
+Nome do Produto: banana
+Quantidade: 2

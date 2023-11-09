@@ -1,0 +1,3 @@
+Produto: banana
+Quantidade: 14
+Preço: 4.00
